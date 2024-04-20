@@ -23,17 +23,6 @@
         <price>600.0</price>
     </pharmed>
     <pharmed>
-        <id>5</id>
-        <name>Thuốc 6</name>
-        <NSX>24/12/2019</NSX>
-        <HSD>25/5/2027</HSD>
-        <Source>Hàn Quốc</Source>
-        <bill>81hs6</bill>
-        <set>cqjxn17</set>
-        <number>200</number>
-        <price>140.0</price>
-    </pharmed>
-    <pharmed>
         <id>6</id>
         <name>Thuốc 5</name>
         <NSX>23/12/2009</NSX>
