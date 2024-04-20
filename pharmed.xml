@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pharmeds>
+    <pharmed>
+        <id>2</id>
+        <name>Thuốc 2</name>
+        <NSX>21/12/2021</NSX>
+        <HSD>22/4/2026</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill>23sg7</bill>
+        <set>1dsga7</set>
+        <number>28</number>
+        <price>14.0</price>
+    </pharmed>
+    <pharmed>
+        <id>4</id>
+        <name>Thuốc 4</name>
+        <NSX>22/4/2021</NSX>
+        <HSD>24/6/2027</HSD>
+        <Source>Lào</Source>
+        <bill>77s1wsav</bill>
+        <set>1832s5</set>
+        <number>60</number>
+        <price>600.0</price>
+    </pharmed>
+    <pharmed>
+        <id>5</id>
+        <name>Thuốc 6</name>
+        <NSX>24/12/2019</NSX>
+        <HSD>25/5/2027</HSD>
+        <Source>Thái Lan</Source>
+        <bill>81hs6</bill>
+        <set>cqjxn17</set>
+        <number>200</number>
+        <price>140.0</price>
+    </pharmed>
+    <pharmed>
+        <id>6</id>
+        <name>Thuốc 5</name>
+        <NSX>23/12/2009</NSX>
+        <HSD>21/2/2026</HSD>
+        <Source>Campuchia</Source>
+        <bill>rry34f</bill>
+        <set>dvc3v5</set>
+        <number>35</number>
+        <price>125.0</price>
+    </pharmed>
+    <pharmed>
+        <id>10</id>
+        <name>Thuốc 11</name>
+        <NSX>8/3/2022</NSX>
+        <HSD>8/8/2029</HSD>
+        <Source>Afganishtan</Source>
+        <bill>518x</bill>
+        <set>2xny75</set>
+        <number>80</number>
+        <price>96.0</price>
+    </pharmed>
+    <pharmed>
+        <id>11</id>
+        <name>Thuốc 12</name>
+        <NSX>6/7/2023</NSX>
+        <HSD>8/8/2027</HSD>
+        <Source>Mông Cổ</Source>
+        <bill>d2knsu5</bill>
+        <set>2eud6d</set>
+        <number>70</number>
+        <price>160.0</price>
+    </pharmed>
+    <pharmed>
+        <id>12</id>
+        <name>Thuốc 18</name>
+        <NSX>3/3/2016</NSX>
+        <HSD>8/3/2029</HSD>
+        <Source>Irasel</Source>
+        <bill>12ef7</bill>
+        <set>t2tfu5</set>
+        <number>50</number>
+        <price>220.0</price>
+    </pharmed>
+    <pharmed>
+        <id>13</id>
+        <name>Thuốc 24</name>
+        <NSX>15/5/2022</NSX>
+        <HSD>15/5/2029</HSD>
+        <Source>Pháp</Source>
+        <bill>2c6v2c</bill>
+        <set>r23c6</set>
+        <number>55</number>
+        <price>150.0</price>
+    </pharmed>
+    <pharmed>
+        <id>14</id>
+        <name>Thuốc 36</name>
+        <NSX>23/12/2022</NSX>
+        <HSD>14/12/2024</HSD>
+        <Source>Anh</Source>
+        <bill>d32tede</bill>
+        <set>82eg124</set>
+        <number>22</number>
+        <price>1234.0</price>
+    </pharmed>
+    <pharmed>
+        <id>15</id>
+        <name>Dao mổ</name>
+        <NSX>22/12/2023</NSX>
+        <HSD>23/12/2026</HSD>
+        <Source>Trung Quốc</Source>
+        <bill>2d56</bill>
+        <set>3rg65h</set>
+        <number>10</number>
+        <price>250.0</price>
+    </pharmed>
+    <pharmed>
+        <id>16</id>
+        <name>Bơm kim tiêm</name>
+        <NSX>11/12/2021</NSX>
+        <HSD>6/6/2028</HSD>
+        <Source>Trung Quốc</Source>
+        <bill>r235t4</bill>
+        <set>3dj835</set>
+        <number>300</number>
+        <price>234.0</price>
+    </pharmed>
+    <pharmed>
+        <id>17</id>
+        <name>Dây thở</name>
+        <NSX>23/11/2023</NSX>
+        <HSD>23/11/2028</HSD>
+        <Source>Mỹ</Source>
+        <bill>76c26c</bill>
+        <set>f262c2</set>
+        <number>300</number>
+        <price>120.0</price>
+    </pharmed>
+    <pharmed>
+        <id>18</id>
+        <name>Gang tay y tế</name>
+        <NSX>14/12/2023</NSX>
+        <HSD>30/9/2024</HSD>
+        <Source>Trung Quốc</Source>
+        <bill>fuqjhr3</bill>
+        <set>2nt7n82x</set>
+        <number>30</number>
+        <price>120.0</price>
+    </pharmed>
+    <pharmed>
+        <id>19</id>
+        <name>Dao mổ</name>
+        <NSX>13/11/2022</NSX>
+        <HSD>26/10/2028</HSD>
+        <Source>Thái Lan</Source>
+        <bill>c2n847</bill>
+        <set>c2n34c</set>
+        <number>200</number>
+        <price>120.0</price>
+    </pharmed>
+    <pharmed>
+        <id>20</id>
+        <name>Gạc y tế</name>
+        <NSX>22/01/2024</NSX>
+        <HSD>23/12/2027</HSD>
+        <Source>Thái Lan</Source>
+        <bill>x2x72x5</bill>
+        <set>2dn472</set>
+        <number>88</number>
+        <price>5.0</price>
+    </pharmed>
+    <pharmed>
+        <id>21</id>
+        <name>Bông thấm</name>
+        <NSX>14/12/2023</NSX>
+        <HSD>25/3/2029</HSD>
+        <Source>Nhật Bản</Source>
+        <bill>c2n83c</bill>
+        <set>304nc2c</set>
+        <number>150</number>
+        <price>3.0</price>
+    </pharmed>
+    <pharmed>
+        <id>22</id>
+        <name>Dây chun y tế</name>
+        <NSX>12/2/2023</NSX>
+        <HSD>12/1/2025</HSD>
+        <Source>Thụy Điển</Source>
+        <bill>c623c</bill>
+        <set>c2c62</set>
+        <number>35</number>
+        <price>99.0</price>
+    </pharmed>
+    <pharmed>
+        <id>23</id>
+        <name>Thuốc 50</name>
+        <NSX>12/3/2021</NSX>
+        <HSD>12/4/2025</HSD>
+        <Source>fv3v1</Source>
+        <bill>x315x</bill>
+        <set>12xt3x4</set>
+        <number>12</number>
+        <price>100.0</price>
+    </pharmed>
+    <pharmed>
+        <id>24</id>
+        <name>Thuốc nhỏ mắt</name>
+        <NSX>23/11/2021</NSX>
+        <HSD>24/12/2026</HSD>
+        <Source></Source>
+        <bill></bill>
+        <set></set>
+        <number>120</number>
+        <price>120.0</price>
+    </pharmed>
+    <pharmed>
+        <id>25</id>
+        <name>Kéo cắt chỉ</name>
+        <NSX>21/11/2021</NSX>
+        <HSD>12/12/2028</HSD>
+        <Source>Hàn Quốc</Source>
+        <bill>c235c</bill>
+        <set>c235c</set>
+        <number>12</number>
+        <price>41.0</price>
+    </pharmed>
+    <pharmed>
+        <id>26</id>
+        <name>Thuốc Tây</name>
+        <NSX>21/1/2021</NSX>
+        <HSD>24/4/2025</HSD>
+        <Source>Mỹ</Source>
+        <bill>c3c</bill>
+        <set>c414c</set>
+        <number>15</number>
+        <price>120.0</price>
+    </pharmed>
+    <pharmed>
+        <id>27</id>
+        <name>Thuốc Nam</name>
+        <NSX>12/2/2023</NSX>
+        <HSD>12/12/2024</HSD>
+        <Source>Việt Nam</Source>
+        <bill>c235c</bill>
+        <set>c23c</set>
+        <number>132</number>
+        <price>12.0</price>
+    </pharmed>
+</pharmeds>
